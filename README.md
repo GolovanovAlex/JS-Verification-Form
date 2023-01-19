@@ -2,6 +2,7 @@
 
 ![gif](readme/underconstruction.gif)
 
+
 ## Info
 
 Создано на основе видео с Youtube канала [CodingLab](https://www.youtube.com/@CodingLabYT).
