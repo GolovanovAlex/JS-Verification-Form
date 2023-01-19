@@ -12,11 +12,13 @@
 
 ![gif](readme/gif.webp)
 
+
 ## Info
 
 Создано на основе видео с Youtube канала [CodingLab](https://www.youtube.com/@CodingLabYT).
 
 Для обучения и отработки работы c **CSS** и **JavaScript**.
+
 
 ---
 
