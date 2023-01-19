@@ -1,13 +1,34 @@
+<!-- Created based on Youtube [CodingLab](https://www.youtube.com/@CodingLabYT)-->
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Icon -->
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+
     <title>OTP Code Verification Form</title>
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
+    <div class="container">
+      <div class="header">
+        <i class="bx bxs-check-shield"></i>
+      </div>
+      <h4>Enter OTP Code</h4>
+      <form action="#">
+        <div class="input-field">
+          <input type="number" />
+          <input type="number" disabled />
+          <input type="number" disabled />
+          <input type="number" disabled />
+        </div>
+      </form>
+    </div>
     <script src="app.js"></script>
   </body>
 </html>
