@@ -62,12 +62,12 @@ button {
   border-radius: 6px;
   padding: 9px 0;
   margin-top: 25px;
-  cursor: pointer;
+  cursor: not-allowed;
   transition: all 0.2s ease;
-  pointer-events: none;
 }
 button.active {
   pointer-events: auto;
+  cursor: pointer;
   background-color: #efa94a;
 }
 button:hover {
